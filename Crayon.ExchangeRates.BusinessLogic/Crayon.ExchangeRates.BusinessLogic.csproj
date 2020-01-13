@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Crayon.ExchangeRates.BusinessLogic.Interfaces\Crayon.ExchangeRates.BusinessLogic.Interfaces.csproj" />
+    <ProjectReference Include="..\Crayon.ExchangeRates.BusinessModel\Crayon.ExchangeRates.BusinessModel.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.Extensions.Caching.Abstractions" Version="2.2.0" />
+    <PackageReference Include="Newtonsoft.Json" Version="12.0.1-beta1" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,11 @@
+{
+  "ServiceData": {
+    "Guid": "923B2DCC-4B64-490A-9904-C8C1714ABD61",
+    "UniqueIdentifier": "Crayon.ExchangeRates",
+    "ServiceName": "Crayon.ExchangeRates.Api",
+    "Version": "v1",
+    "Vendor": "Miroslav Trailovic",
+    "VendorEmail": "mtrailovic47@gmail.com",
+    "VendorUrl": "http://www.crayon.com"
+  }
+}
